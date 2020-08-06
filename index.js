@@ -1,3 +1,3 @@
-var freepass-qrcode = require('./src/zxing');
+var zxing = require('./src/zxing');
 
-module.exports = freepass-qrcode;
+module.exports = zxing;
